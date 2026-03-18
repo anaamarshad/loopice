@@ -37,7 +37,7 @@ export function Footer({ onNavigate }: FooterProps) {
               <img 
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Loopice-Logo0-2-dlzF7rQaR3Wi1huYcaShy9ysDVAtnB.jpeg" 
                 alt="Loopice Engineering Logo" 
-                className="h-10 w-10 rounded object-cover"
+                className="h-10 w-10 rounded object-contain"
               />
               <span className="font-bold text-lg tracking-wide">
                 LOOPICE

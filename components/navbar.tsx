@@ -39,7 +39,7 @@ export function Navbar({ activePage, onNavigate }: NavbarProps) {
             <img 
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Loopice-Logo0-2-dlzF7rQaR3Wi1huYcaShy9ysDVAtnB.jpeg" 
               alt="Loopice Engineering Logo" 
-              className="h-10 w-10 lg:h-12 lg:w-12 rounded object-cover"
+              className="h-10 w-10 lg:h-12 lg:w-12 rounded object-contain"
             />
             <span className="text-white font-bold text-lg lg:text-xl tracking-wide">
               LOOPICE
